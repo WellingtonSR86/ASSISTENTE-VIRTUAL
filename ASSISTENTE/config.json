@@ -1,0 +1,40 @@
+{
+    "nome": "maria",
+    "acoes":[
+        {
+            "nome":"ligar",
+            "objetos":[
+                "som",
+                "farol",
+                "ar-condicionado",
+                "ventilador"
+            ]
+        },
+        {
+            "nome":"desligar",
+            "objetos":[
+                "som",
+                "farol",
+                "ar-condicionado",
+                "ventilador"
+            ]
+        },
+        {
+            "nome":"aumentar",
+            "objetos":[
+                "volume",
+                "temperatura",
+                "velocidade"
+            ]
+        },{
+            "nome":"diminuir",
+            "objetos":[
+                "volume",
+                "temperatura",
+                "velocidade"
+            ]
+        }
+
+    ]
+
+}
